@@ -2,7 +2,7 @@
 
 #### _Website to reveal voting information when a user inputs their age., 08/13/2020_
 
-#### By _**Jeff Dinsmore**_
+#### By _**Jeff Dinsmore & Joseph Karnafel**_
 
 ## Description
 
@@ -31,6 +31,6 @@ _Any known issues, please reach out to Jeff Dinsmore by email at hello@jeffdinsm
 
 ### License
 
-Copyright (c) 2020 **_Jeff Dinsmore_**
+Copyright (c) 2020 **_Jeff Dinsmore & Joseph Karnafel_**
 
 This software is licensed under the MIT license.
